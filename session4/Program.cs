@@ -361,6 +361,85 @@ namespace session4
             //    Console.WriteLine( $"nums are {i}");
 
             #endregion
+            #region q6->q12
+            //6
+            //Console.WriteLine("enter number");
+            //int value = int.Parse(Console.ReadLine());
+            //for (int i =1; i<=value; i++)
+            //{
+            //    Console.WriteLine( $"nums are {i}");
+
+            //}
+
+            //8
+            //Console.WriteLine("enter number");
+            //int number = int.Parse(Console.ReadLine());
+            //for(int i = 2; i<=number; i += 2)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+            //9
+            //{
+            //    Console.Write("Enter base number: ");
+            //    int baseNum = int.Parse(Console.ReadLine());
+
+            //    Console.Write("Enter exponent: ");
+            //    int exponent = int.Parse(Console.ReadLine());
+
+            //    int result = 1;
+
+            //    for (int i = 1; i <= exponent; i++)
+            //    {
+            //        result *= baseNum;
+            //    }
+
+            //    Console.WriteLine("Result: " + result);
+            //}
+
+
+            //11
+            //Console.Write("Enter month number (1-12): ");
+            //int month = int.Parse(Console.ReadLine());
+
+            //int days;
+
+            //switch (month)
+            //{
+            //    case 1:  // January
+            //    case 3:  // March
+            //    case 5:  // May
+            //    case 7:  // July
+            //    case 8:  // August
+            //    case 10: // October
+            //    case 12: // December
+            //        days = 31;
+            //        break;
+
+            //    case 4:  // April
+            //    case 6:  // June
+            //    case 9:  // September
+            //    case 11: // November
+            //        days = 30;
+            //        break;
+
+            //    case 2:  // February
+            //        days = 28; //   
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("Invalid month number.");
+            //        return;
+            //}
+
+            //Console.WriteLine("Days in Month: " + days);
+
+
+
+
+            //12
+            #endregion
         }
     }
 }

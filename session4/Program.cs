@@ -314,6 +314,53 @@ namespace session4
             //    Console.WriteLine("no");
             //}
             #endregion
+            #region q2,q3,q4,q5,q6
+            //2 
+            //Console.WriteLine("enter number");
+            //int value = int.Parse(Console.ReadLine());
+            //if (value > 0)
+            //{
+            //    Console.WriteLine("postive");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("negative");
+            //}
+
+
+
+            //3
+            //Console.WriteLine("enter 3 numbers");
+            //int value1 , int value2 , int value3 = int.Parse(Console.ReadLine());
+            //if(value1 > value2 && value2 > value3 )
+            //{
+            //    Console.WriteLine("value 1 the max");
+            //}
+
+
+
+            //4
+            //Console.WriteLine("enter even or odd num");
+            //int value = int.Parse(Console.ReadLine());
+            //if(value % 2 == 0)
+            //{
+            //    Console.WriteLine("even num");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("odd num");
+            //}
+
+            //5
+
+            //6
+            //Console.WriteLine("enter number");
+            //int value = int.Parse(Console.ReadLine());
+            //for (int i =1; i<=value; i++)
+            //{
+            //    Console.WriteLine( $"nums are {i}");
+
+            #endregion
         }
     }
 }

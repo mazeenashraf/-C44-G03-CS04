@@ -301,6 +301,19 @@ namespace session4
             //12
 
             #endregion
+            #region q1
+            //1
+            //Console.WriteLine("enter number");
+            //int num = int.Parse(Console.ReadLine());
+            //if (num % 3 == 0 || num % 4 == 0) 
+            //{
+            //    Console.WriteLine( $" num is diveded {num} " );
+            //}
+            //else
+            //{
+            //    Console.WriteLine("no");
+            //}
+            #endregion
         }
     }
 }
